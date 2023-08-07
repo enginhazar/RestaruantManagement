@@ -1,0 +1,16 @@
+C:\Users\EnginHazar\Source\repos\Rm\Rm.Infrastructure\bin\Debug\net5.0\Rm.Infrastructure.exe
+C:\Users\EnginHazar\Source\repos\Rm\Rm.Infrastructure\bin\Debug\net5.0\Rm.Infrastructure.deps.json
+C:\Users\EnginHazar\Source\repos\Rm\Rm.Infrastructure\bin\Debug\net5.0\Rm.Infrastructure.runtimeconfig.json
+C:\Users\EnginHazar\Source\repos\Rm\Rm.Infrastructure\bin\Debug\net5.0\Rm.Infrastructure.runtimeconfig.dev.json
+C:\Users\EnginHazar\Source\repos\Rm\Rm.Infrastructure\bin\Debug\net5.0\Rm.Infrastructure.dll
+C:\Users\EnginHazar\Source\repos\Rm\Rm.Infrastructure\bin\Debug\net5.0\ref\Rm.Infrastructure.dll
+C:\Users\EnginHazar\Source\repos\Rm\Rm.Infrastructure\bin\Debug\net5.0\Rm.Infrastructure.pdb
+C:\Users\EnginHazar\Source\repos\Rm\Rm.Infrastructure\obj\Debug\net5.0\Rm.Infrastructure.csprojAssemblyReference.cache
+C:\Users\EnginHazar\Source\repos\Rm\Rm.Infrastructure\obj\Debug\net5.0\Rm.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\EnginHazar\Source\repos\Rm\Rm.Infrastructure\obj\Debug\net5.0\Rm.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\EnginHazar\Source\repos\Rm\Rm.Infrastructure\obj\Debug\net5.0\Rm.Infrastructure.AssemblyInfo.cs
+C:\Users\EnginHazar\Source\repos\Rm\Rm.Infrastructure\obj\Debug\net5.0\Rm.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\EnginHazar\Source\repos\Rm\Rm.Infrastructure\obj\Debug\net5.0\Rm.Infrastructure.dll
+C:\Users\EnginHazar\Source\repos\Rm\Rm.Infrastructure\obj\Debug\net5.0\ref\Rm.Infrastructure.dll
+C:\Users\EnginHazar\Source\repos\Rm\Rm.Infrastructure\obj\Debug\net5.0\Rm.Infrastructure.pdb
+C:\Users\EnginHazar\Source\repos\Rm\Rm.Infrastructure\obj\Debug\net5.0\Rm.Infrastructure.genruntimeconfig.cache

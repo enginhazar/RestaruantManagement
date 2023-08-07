@@ -1,0 +1,12 @@
+C:\Users\EnginHazar\Source\repos\Rm\Rm.Core\bin\Debug\net5.0\Rm.Core.deps.json
+C:\Users\EnginHazar\Source\repos\Rm\Rm.Core\bin\Debug\net5.0\Rm.Core.dll
+C:\Users\EnginHazar\Source\repos\Rm\Rm.Core\bin\Debug\net5.0\ref\Rm.Core.dll
+C:\Users\EnginHazar\Source\repos\Rm\Rm.Core\bin\Debug\net5.0\Rm.Core.pdb
+C:\Users\EnginHazar\Source\repos\Rm\Rm.Core\obj\Debug\net5.0\Rm.Core.csprojAssemblyReference.cache
+C:\Users\EnginHazar\Source\repos\Rm\Rm.Core\obj\Debug\net5.0\Rm.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\EnginHazar\Source\repos\Rm\Rm.Core\obj\Debug\net5.0\Rm.Core.AssemblyInfoInputs.cache
+C:\Users\EnginHazar\Source\repos\Rm\Rm.Core\obj\Debug\net5.0\Rm.Core.AssemblyInfo.cs
+C:\Users\EnginHazar\Source\repos\Rm\Rm.Core\obj\Debug\net5.0\Rm.Core.csproj.CoreCompileInputs.cache
+C:\Users\EnginHazar\Source\repos\Rm\Rm.Core\obj\Debug\net5.0\Rm.Core.dll
+C:\Users\EnginHazar\Source\repos\Rm\Rm.Core\obj\Debug\net5.0\ref\Rm.Core.dll
+C:\Users\EnginHazar\Source\repos\Rm\Rm.Core\obj\Debug\net5.0\Rm.Core.pdb
